@@ -5,8 +5,8 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import openai
 from googlesearch import search
 
-TELEGRAM_API_KEY = "5982704300:AAEuF5RZVnYwQsrw19wfqo6E_arUGfXn9wA"
-OPENAI_API_KEY = "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"
+TELEGRAM_API_KEY = "here"
+OPENAI_API_KEY = "here"
 openai.api_key = OPENAI_API_KEY
 
 logging.basicConfig(
